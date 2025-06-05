@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Brian-Konr/Brian-Konr/master/profile-summary-card-output/cobalt/4-productive-time.svg)
-```
-
-    
