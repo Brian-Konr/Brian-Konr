@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Brian-Konr/Brian-Konr/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
